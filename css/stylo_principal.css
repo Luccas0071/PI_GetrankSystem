@@ -1,0 +1,42 @@
+
+.clientes-principal{
+    border: 1px solid rgb(0, 0, 0);
+    margin-top: 100px;
+    margin-left: 360px;
+    position: absolute;
+    padding: 50px;
+    background-color: #89f3b5
+}
+
+.geral-principala a{
+    color: #fff;
+    display:  block;
+    width: 100%;
+    line-height: 60px;
+    text-decoration: none;
+    padding-left: 40px;
+    box-sizing: border-box;
+    transition: 0.5s;
+}
+
+.sidebar a:hover{
+    background: #19B3D3;
+}
+
+.pedidos-principal{
+    border: 1px solid rgb(0, 0, 0);
+    margin-top: 100px;
+    margin-left: 560px;
+    position: absolute;
+    padding: 50px;
+    background-color: #8cf083
+}
+
+.veiculos-principal{
+    border: 1px solid rgb(0, 0, 0);
+    margin-top: 100px;
+    margin-left: 760px;
+    position: absolute;
+    padding: 50px;
+    background-color: #2e5f2a
+}
